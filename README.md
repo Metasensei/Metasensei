@@ -28,8 +28,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,jquery,react,redux,nextjs,tailwind,vue,angular,webpack,firebase" />
-    <img src="https://skillicons.dev/icons?i=python,java" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,jquery,react,redux,nextjs,tailwind,python" />
     <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,figma,docker" /><br>
 </div>
 
@@ -65,7 +64,6 @@
     </a>
 </div>
 
-<hr/>
 <h3 align="center">📱 Follow me on social media:</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/muhammad-karimov/" target="_blank">
@@ -73,5 +71,16 @@
     </a>
     <a href="https://twitter.com/Metasensei" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+    </a>
+</div>
+
+<hr/>
+<h3 align="center">🎬 YouTube Channels:</h3>
+<div align="center">
+    <a href="https://www.youtube.com/channel/@metaKarimov" target="_blank">
+        <img src="https://img.shields.io/badge/MetaSensei-FF5733?style=flat&logo=youtube&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCQzjPZpeNKTo_b3uyQvmFdQ" target="_blank">
+        <img src="https://img.shields.io/badge/TechMaster-2965F1?style=flat&logo=youtube&logoColor=white" />
     </a>
 </div>
