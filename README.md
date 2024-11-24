@@ -28,20 +28,50 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,jquery,react,redux,nextjs,tailwind" />
-    <img src="https://skillicons.dev/icons?i=python" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,jquery,react,redux,nextjs,tailwind,vue,angular,webpack,firebase" />
+    <img src="https://skillicons.dev/icons?i=python,java" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,figma,docker" /><br>
 </div>
 
-<br/>
-<br/>
-<br/>
-<hr/>
-
+<h3 align="center">💻 Tech Stack</h3>
 <div align="center">
-  <h2>🐍 Mening Kularim 🐍</h2>
-  <br>
+    <img src="https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+</div>
+
+<br/><br/>
+
+<h2 align="center">🔍 Github Contributions</h2>
+<div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+</div>
+
+<h3 align="center">🚀 Featured Projects</h3>
+<div align="center">
+    <a href="https://github.com/Metasensei/SeeznTv" target="_blank">
+        <img src="https://img.shields.io/badge/SeeznTv-FF5733?style=flat&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/Metasensei/AnimeApp" target="_blank">
+        <img src="https://img.shields.io/badge/AnimeApp-2965F1?style=flat&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/Metasensei/Portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=flat&logo=github&logoColor=black" />
+    </a>
+</div>
+
+<hr/>
+<h3 align="center">📱 Follow me on social media:</h3>
+<div align="center">
+    <a href="https://www.linkedin.com/in/muhammad-karimov/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/Metasensei" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+    </a>
 </div>
