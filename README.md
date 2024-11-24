@@ -64,16 +64,6 @@
     </a>
 </div>
 
-<h3 align="center">📱 Follow me on social media:</h3>
-<div align="center">
-    <a href="https://www.linkedin.com/in/muhammad-karimov/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/Metasensei" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-    </a>
-</div>
-
 <hr/>
 <h3 align="center">🎬 YouTube Channels:</h3>
 <div align="center">
