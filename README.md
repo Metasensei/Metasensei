@@ -3,31 +3,31 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F70909&width=500&height=70&duration=4000&lines=Salom+Hammaga!+👋;+Ismim+Muhammad!;" />
 </h1>
 
-<h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchisi & YouTube Creator</h3>
+<h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchisi & YouTube Yaratuvchisi</h3>
 
 <br/><br/>
 
-- 🔭 Hozirda **SeeznTv Platform** ustida ishlayapman va yangi texnologiyalarni o'rganishga doimo intilaman.
+- 🔭 Hozirda **SeeznTv Platformasi** ustida ishlayapman va yangi texnologiyalarni o'rganishga doimo intilaman.
   
 - 🌱 Men izlanish va rivojlanishdan to'xtamayman, frontend texnologiyalariga yangiliklar qo'shib turaman.
 
 - 📝 Menga <b>Telegram</b> orqali bog'laning: [<b>Telegram</b>](https://t.me/Muhammad_Linkdev)
 
-- 📫 Email orqali bog'lanish: **Not Now** (Biroz vaqt o'zgartirilishi mumkin)
+- 📫 Email orqali bog'lanish: **Hozir emas** (Yaqinda yangilanadi)
 
 - ⚡ Ishdagi qoidam: **Innovatsiya va kreativlik — bizga bu imkoniyatni yaratadi!**
 
 <br/><br/>
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tillar, Frameworklar va Vositalar ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,jquery,react,redux,nextjs,tailwind,python" />
     <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,figma,docker" /><br>
 </div>
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">💻 Texnologiyalar To'plami</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white" />
@@ -41,12 +41,12 @@
 
 <br/><br/>
 
-<h2 align="center">🔍 Github Contributions</h2>
+<h2 align="center">🔍 GitHub Hissalarim</h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">🚀 Asosiy Loyihalarim</h3>
 <div align="center">
     <a href="https://github.com/Metasensei/SeeznTv" target="_blank">
         <img src="https://img.shields.io/badge/SeeznTv-FF5733?style=flat&logo=github&logoColor=white" />
@@ -60,7 +60,7 @@
 </div>
 
 <hr/>
-<h3 align="center">🎬 YouTube Channels:</h3>
+<h3 align="center">🎬 YouTube Kanallarim:</h3>
 <div align="center">
     <a href="https://www.youtube.com/channel/@metaKarimov" target="_blank">
         <img src="https://img.shields.io/badge/MetaSensei-FF5733?style=flat&logo=youtube&logoColor=white" />
