@@ -16,10 +16,17 @@
 - 📫 Email orqali bog'lanish: **Not Now** (Biroz vaqt o'zgartirilishi mumkin)
 
 - ⚡ Ishdagi qoidam: **Innovatsiya va kreativlik — bizga bu imkoniyatni yaratadi!**
-<h3 align="left">Menga bog'laning:</h3>
+<h3 align="left">Menga bog'lanish:</h3>
 <p align="left">
-
- <a href="https://t.me/Muhammad_Linkdev" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/100/ffffff/telegram-app.png" alt="Telegram" height="40" width="40" /></a>
+    <a href="https://t.me/Muhammad_Linkdev" target="blank">
+        <img align="center" src="https://img.icons8.com/ios-filled/50/08C2F3/telegram-app.png" alt="Telegram" height="40" width="40" />
+    </a>
+    <a href="https://github.com/Metasensei" target="blank">
+        <img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" height="40" width="40" />
+    </a>
+    <a href="https://www.youtube.com/@metasensei" target="blank">
+        <img align="center" src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" alt="YouTube" height="40" width="40" />
+    </a>
 </p>
 <br/><br/>
 <hr/>
