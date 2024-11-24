@@ -3,20 +3,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F70909&width=500&height=70&duration=4000&lines=Salom+Hammaga!+👋;+Ismim+Muhammad!;" />
 </h1>
 
-<h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchi</h3>
+<h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchisi & YouTube Creator</h3>
 <img align="right" alt="Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZKh9PZao6tpmM6lDmT0TOtlxyykbquac17&linkpassword=undefined&size=1492x392&crop=0&type=auto"></img>
 <br/><br/>
 
-- 🔭 Hozirda **SeeznTv Platform** ustida ish olib boryapman
+- 🔭 Hozirda **SeeznTv Platform** ustida ishlayapman va yangi texnologiyalarni o'rganishga doimo intilaman.
+  
+- 🌱 Men izlanish va rivojlanishdan to'xtamayman, frontend texnologiyalariga yangiliklar qo'shib turaman.
 
-- 🌱 Men izlanishdan to'xtamayman
+- 📝 Menga <b>Telegram</b> orqali bog'laning: [<b>Telegram</b>](https://t.me/Muhammad_Linkdev)
 
-- 📝 Menga <b>telegram</b> orqali bog'laning [<b>Havola</b>](https://t.me/Muhammad_Linkdev)
+- 📫 Email orqali bog'lanish: **Not Now** (Biroz vaqt o'zgartirilishi mumkin)
 
-- 📫 Email orqali bog'lanish **Not Now**
-
-- ⚡ Ishdagi qoidam **Only we can do it**
-
+- ⚡ Ishdagi qoidam: **Innovatsiya va kreativlik — bizga bu imkoniyatni yaratadi!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
