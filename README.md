@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=38B2AC&width=500&height=70&duration=4000&lines=Salom+Hammaga!+🚀;+Muhammad+Karimov+bu+yangi+texnologiyalar+va+frontend+sohasidagi+master!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=38B2AC&width=500&height=70&duration=8000&lines=Salom+Hammaga!+🚀;+Muhammad+Karimov+bu+yangi+texnologiyalar+va+frontend+sohasidagi+master!;" />
 </h1>
 
 <h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchisi & YouTube Yaratuvchisi</h3>
