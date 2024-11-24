@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=38B2AC&width=500&height=70&duration=4000&lines=Salam+Hammaga!+🌍;+Dunyoimga+Xush+Kelibsiz!+Muhammad+Karimov+Frontend+Texnologiyalar+bo'yicha+yo'lboshchi!;" />
+    <<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Salam+Hammaga!+%F0%9F%9A%80;Dunyoimga+Xush+Kelibsiz!+%F0%9F%8C%8D;Muhammad+Karimov+!+" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchisi & YouTube Yaratuvchisi</h3>
