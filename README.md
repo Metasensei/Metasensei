@@ -14,8 +14,9 @@
 ### 🧰 Mening Texnologiyalarim
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,nextjs,redux" />
+    <img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode,figma,photoshop,illustrator" />
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb,postman,linux" />
 </div>
 
 ---
@@ -23,15 +24,15 @@
 ### 🌱 O'rganishni davom ettirayotgan sohalar
 
 - 📘 **HLS Formatni o'zgartirish va yangi streaming usullarini integratsiya qilish**
-- 🚀 **Full-Stack Dasturlash (Node.js va Python bilan)**
+- 🚀 **Backend texnologiyalar (Node.js va Express.js)**
 - 📊 **Kreativ UI/UX yondashuvlarini qo'llash**
 
 ---
 
 ### 💬 Menga bog'laning:
 
-- Telegram: [@Muhammad_Linkdev](https://t.me/Muhammad_Linkdev)
-- Email: **karimov.muhammad.dev@gmail.com**
+- 📱 **Telegram:** [@Muhammad_Linkdev](https://t.me/Muhammad_Linkdev)
+- ✉️ **Email:** **karimov.muhammad.dev@gmail.com**
 
 ---
 
@@ -53,6 +54,16 @@
 
 ---
 
+### 🎨 Animatsiyalar va Vizual Statistikalar
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Metasensei&theme=radical" alt="Muhammad Karimov's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical" alt="Muhammad Karimov's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ### 📺 YouTube Kanallarim
 
 <div align="center">
@@ -66,11 +77,10 @@
 
 ---
 
-### 🔥 GitHub Statistikasi
+### 🔥 Interaktiv Animatsiya
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical" alt="Muhammad Karimov's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Frontend+Dasturchi;Anime+Sevuvchi;IT+Soha+O'qituvchisi" alt="Typing Animation" />
 </div>
 
 ---
