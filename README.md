@@ -1,81 +1,86 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Metasensei.Metasensei" /> 
+<h1 align="center">👋 Assalomu alaykum! Men Muhammad Karimov</h1>
+<h3 align="center">Frontend Dasturchi | SeeznTv asoschisi | YouTube Yaratuvchisi</h3>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=38B2AC&width=435&lines=Dunyoimga+Xush+Kelibsiz!+%F0%9F%8C%8D;Salam+Hammaga!+%F0%9F%9A%80;Muhammad+Karimov+!+" alt="Typing SVG" />
-</h1>
+---
 
-<h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchisi & YouTube Yaratuvchisi</h3>
+### 🛠️ Loyihalarim va Ish Faoliyatim
 
-<br/><br/>
+- 🔭 Hozirda **[SeeznTv](https://github.com/Metasensei/SeeznTv)** platformasini rivojlantirish bilan shug'ullanmoqdaman.
+- 📺 YouTube kanalim orqali texnologiyalar va dasturlash haqida bilim ulashaman: [Muhammad Karimov](https://www.youtube.com/@metaKarimov).
+- 🧑‍💻 **Anime va Texnologiyalarni birlashtirgan dasturlar ustida ishlayman.**
 
-- 🔭 Hozirda **SeeznTv Platformasi** ustida ishlayapman va yangi texnologiyalarni o'rganishga doimo intilaman.
-  
-- 🌱 Men izlanish va rivojlanishdan to'xtamayman, frontend texnologiyalariga yangiliklar qo'shib turaman.
+---
 
-- 📝 Menga Telegram orqali bog'laning: [<b>Telegram</b>](https://t.me/Muhammad_Linkdev)
+### 🧰 Mening Texnologiyalarim
 
-- 📫 Email orqali bog'lanish: **karimov.muhammad.dev@gmail.com**
-
-- ⚡ Ishdagi qoidam: **Innovatsiya va kreativlik — bizga bu imkoniyatni yaratadi!**
-
-<br/><br/>
-<hr/>
-
-<h2 align="center">⚒️ Tillar, Frameworklar va Vositalar ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,jquery,react,redux,nextjs,tailwind,python" />
-    <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,figma,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
 </div>
 
-<h3 align="center">💻 Texnologiyalar To'plami</h3>
+---
+
+### 🌱 O'rganishni davom ettirayotgan sohalar
+
+- 📘 **HLS Formatni o'zgartirish va yangi streaming usullarini integratsiya qilish**
+- 🚀 **Full-Stack Dasturlash (Node.js va Python bilan)**
+- 📊 **Kreativ UI/UX yondashuvlarini qo'llash**
+
+---
+
+### 💬 Menga bog'laning:
+
+- Telegram: [@Muhammad_Linkdev](https://t.me/Muhammad_Linkdev)
+- Email: **karimov.muhammad.dev@gmail.com**
+
+---
+
+### 🚀 Eng Asosiy Loyihalarim
+
+| Loyiha | Ta'rifi |
+|--------|---------|
+| [SeeznTv](https://github.com/Metasensei/SeeznTv) | Uzbekistondagi eng sifatli onlayn streaming platformasi. |
+| [AnimeApp](https://github.com/Metasensei/AnimeApp) | Anime sevuvchilar uchun maxsus ilova. |
+| [Portfolio](https://github.com/Metasensei/Portfolio) | Mening shaxsiy portfolio sahifam. |
+
+---
+
+### 🐍 GitHub Hissalarim
+
 <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Metasensei/Metasensei/output/github-contribution-grid-snake.svg" />
 </div>
 
-<br/><br/>
+---
 
-<h2 align="center">🔍 GitHub Hissalarim</h2>
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>
+### 📺 YouTube Kanallarim
 
-<h3 align="center">🚀 Asosiy Loyihalarim</h3>
 <div align="center">
-    <a href="https://github.com/Metasensei/SeeznTv" target="_blank">
-        <img src="https://img.shields.io/badge/SeeznTv-FF5733?style=flat&logo=github&logoColor=white" />
+    <a href="https://www.youtube.com/@metaKarimov" target="_blank">
+        <img src="https://img.shields.io/badge/Muhammad_Karimov-FF5733?style=flat&logo=youtube&logoColor=white" />
     </a>
-    <p align="center">Uzbekistondagi eng sifatli streaming platforma.</p>
-    <a href="https://github.com/Metasensei/AnimeApp" target="_blank">
-        <img src="https://img.shields.io/badge/AnimeApp-2965F1?style=flat&logo=github&logoColor=white" />
-    </a>
-    <p align="center">Anime va manga sevuvchilar uchun maxsus dastur.</p>
-    <a href="https://github.com/Metasensei/Portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=flat&logo=github&logoColor=black" />
-    </a>
-    <p align="center">Mening shaxsiy portfolio sahifam.</p>
-</div>
-
-<hr/>
-<h3 align="center">🎬 YouTube Kanallarim:</h3>
-<div align="center">
-    <a href="https://www.youtube.com/channel/@metaKarimov" target="_blank">
-        <img src="https://img.shields.io/badge/MetaSensei-FF5733?style=flat&logo=youtube&logoColor=white" />
-    </a>
-    <p align="center">Texnologiyalar haqida batafsil video darslar.</p>
     <a href="https://www.youtube.com/channel/UCQzjPZpeNKTo_b3uyQvmFdQ" target="_blank">
         <img src="https://img.shields.io/badge/TechMaster-2965F1?style=flat&logo=youtube&logoColor=white" />
     </a>
-    <p align="center">IT rivojlanishi va foydali ma'lumotlar.</p>
 </div>
+
+---
+
+### 🔥 GitHub Statistikasi
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical" alt="Muhammad Karimov's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 🎯 Maqsadlarim
+
+- 🚀 Texnologiyalarni o'zbek tilida tushuntirish va rivojlantirish.
+- 🌏 Butunjahon IT jamoasida o'z hissamni qo'shish.
+- 🧑‍🏫 Yosh dasturchilar uchun ilhom va bilim manbai bo'lish.
+
+---
+
+<h3 align="center">✨ Birgalikda rivojlanamiz! ✨</h3>
