@@ -1,6 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Metasensei.Metasensei" /> 
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=38B2AC&width=435&lines=Dunyoimga+Xush+Kelibsiz!+%F0%9F%8C%8D;Salam+Hammaga!+%F0%9F%9A%80;Muhammad+Karimov+!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=38B2AC&width=435&lines=Dunyoimga+Xush+Kelibsiz!+%F0%9F%8C%8D;Salam+Hammaga!+%F0%9F%9A%80;Muhammad+Karimov+!+" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchisi & YouTube Yaratuvchisi</h3>
@@ -11,9 +12,9 @@
   
 - 🌱 Men izlanish va rivojlanishdan to'xtamayman, frontend texnologiyalariga yangiliklar qo'shib turaman.
 
-- 📝 Menga <b>Telegram</b> orqali bog'laning: [<b>Telegram</b>](https://t.me/Muhammad_Linkdev)
+- 📝 Menga Telegram orqali bog'laning: [<b>Telegram</b>](https://t.me/Muhammad_Linkdev)
 
-- 📫 Email orqali bog'lanish: **Hozir emas** (Yaqinda yangilanadi)
+- 📫 Email orqali bog'lanish: **karimov.muhammad.dev@gmail.com**
 
 - ⚡ Ishdagi qoidam: **Innovatsiya va kreativlik — bizga bu imkoniyatni yaratadi!**
 
@@ -43,7 +44,7 @@
 
 <h2 align="center">🔍 GitHub Hissalarim</h2>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Metasensei/Metasensei/output/github-contribution-grid-snake.svg" />
 </div>
 
 <h3 align="center">🚀 Asosiy Loyihalarim</h3>
@@ -51,12 +52,15 @@
     <a href="https://github.com/Metasensei/SeeznTv" target="_blank">
         <img src="https://img.shields.io/badge/SeeznTv-FF5733?style=flat&logo=github&logoColor=white" />
     </a>
+    <p align="center">Uzbekistondagi eng sifatli streaming platforma.</p>
     <a href="https://github.com/Metasensei/AnimeApp" target="_blank">
         <img src="https://img.shields.io/badge/AnimeApp-2965F1?style=flat&logo=github&logoColor=white" />
     </a>
+    <p align="center">Anime va manga sevuvchilar uchun maxsus dastur.</p>
     <a href="https://github.com/Metasensei/Portfolio" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=flat&logo=github&logoColor=black" />
     </a>
+    <p align="center">Mening shaxsiy portfolio sahifam.</p>
 </div>
 
 <hr/>
@@ -65,7 +69,9 @@
     <a href="https://www.youtube.com/channel/@metaKarimov" target="_blank">
         <img src="https://img.shields.io/badge/MetaSensei-FF5733?style=flat&logo=youtube&logoColor=white" />
     </a>
+    <p align="center">Texnologiyalar haqida batafsil video darslar.</p>
     <a href="https://www.youtube.com/channel/UCQzjPZpeNKTo_b3uyQvmFdQ" target="_blank">
         <img src="https://img.shields.io/badge/TechMaster-2965F1?style=flat&logo=youtube&logoColor=white" />
     </a>
+    <p align="center">IT rivojlanishi va foydali ma'lumotlar.</p>
 </div>
