@@ -13,7 +13,7 @@
 
 ### 🧰 Mening Texnologiyalarim
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,nextjs,redux" alt="Frontend Texnologiyalar" title="Frontend Texnologiyalar" />
     <img src="https://skillicons.dev/icons?i=antdesign" alt="Ant Design" title="Ant Design" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" alt="Backend Texnologiyalar" title="Backend Texnologiyalar" />
@@ -49,7 +49,7 @@
 
 ### 🐍 GitHub Hissalarim
 
-<div align="left">
+<div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
@@ -57,14 +57,14 @@
 
 ### 🎨 Animatsiyalar va Vizual Statistikalar
 
-<div style="display: flex; gap: 15px;">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Metasensei&theme=radical" title="Muhammad Karimov's Streak Stats">
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Metasensei&theme=radical">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Metasensei&theme=radical" alt="Muhammad Karimov's Streak Stats" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical" title="Muhammad Karimov's GitHub Stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical" alt="Muhammad Karimov's GitHub Stats" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical" title="Muhammad Karimov's Top Languages">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
@@ -73,7 +73,7 @@
 
 ### 🔥 Interaktiv Animatsiya
 
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=38B2AC&vCenter=true&width=435&lines=Frontend+Dasturchi;Anime+Sevuvchi;IT+Soha+O'qituvchisi" alt="Typing Animation" />
 </div>
 
