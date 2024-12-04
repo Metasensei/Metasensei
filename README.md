@@ -40,7 +40,7 @@
 
 | Loyiha | Ta'rifi |
 |--------|---------|
-| [SeeznTv](https://github.com/Metasensei/SeeznTv) | Uzbekistondagi eng sifatli onlayn streaming platformasi. |
+| [SeeznTv](https://seezntv.uz/) | Uzbekistondagi eng sifatli onlayn streaming platformasi. |
 | [AnimeApp](https://github.com/Metasensei/AnimeApp) | Anime sevuvchilar uchun maxsus ilova. |
 | [Portfolio](https://github.com/Metasensei/Portfolio) | Mening shaxsiy portfolio sahifam. |
 
