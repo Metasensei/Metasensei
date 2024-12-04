@@ -14,10 +14,9 @@
 ### 🧰 Mening Texnologiyalarim
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,nextjs,redux" alt="Frontend Texnologiyalar" title="Frontend Texnologiyalar" />
-    <img src="https://skillicons.dev/icons?i=antdesign" alt="Ant Design" title="Ant Design" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" alt="Backend Texnologiyalar" title="Backend Texnologiyalar" />
-    <img src="https://skillicons.dev/icons?i=git,github,telegram,docker,postman,vscode" alt="Version Control va Tools" title="Version Control va Tools" />
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,git,github,firebase,docker,figma,vscode" alt="Skills" />
+    </a>
 </div>
 
 ---
@@ -47,34 +46,23 @@
 
 ---
 
-### 🐍 GitHub Hissalarim
+### 📊 GitHub Statistikalar
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <a href="https://github-readme-stats.vercel.app/api?username=Metasensei&theme=radical&count_private=true&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=Metasensei&theme=radical&count_private=true&hide_border=true" alt="Muhammad Karimov's GitHub Stats" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical&count_private=true&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical&count_private=true&hide_border=true" alt="Top Languages" />
+    </a>
 </div>
 
 ---
 
-### 🎨 Animatsiyalar va Vizual Statistikalar
+### 🎨 Interaktiv Animatsiyalar
 
 <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Metasensei&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Metasensei&theme=radical" alt="Muhammad Karimov's Streak Stats" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical" alt="Muhammad Karimov's GitHub Stats" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</div>
-
----
-
-### 🔥 Interaktiv Animatsiya
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=38B2AC&vCenter=true&width=435&lines=Frontend+Dasturchi;Anime+Sevuvchi;IT+Soha+O'qituvchisi" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=38B2AC&vCenter=true&width=435&lines=Frontend+Dasturchi;Anime+Sevuvchi;IT+Soha+O'qituvchisi" alt="Typing Animation" />
 </div>
 
 ---
