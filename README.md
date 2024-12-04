@@ -1,5 +1,5 @@
 <h1 align="center">👋 Assalomu alaykum! Men Muhammad Karimov</h1>
-<h3 align="center">Frontend Dasturchi | SeeznTv asoschisi | YouTube Yaratuvchisi</h3>
+<h3 align="center">Frontend Dasturchi | Mentor | YouTube Yaratuvchisi</h3>
 
 ---
 
@@ -8,6 +8,16 @@
 - 🔭 **Hozirda:** [SeeznTv](https://github.com/Metasensei/SeeznTv) platformasini rivojlantirish bilan shug‘ullanmoqdaman.
 - 📺 **YouTube:** [Muhammad Karimov](https://www.youtube.com/@metaKarimov) kanali orqali texnologiyalar haqida bilim ulashaman.
 - 💻 **Anime va Texnologiyalar:** Anime sevuvchilar uchun dasturlar yarataman.
+
+---
+
+### 🏫 Mentorlik va O'qituvchilik Faoliyatim
+
+- 💼 **Digital City kompaniyasi:** Frontend bo'yicha mentor sifatida ishlayman.
+- 📍 **Andijon IT Markazi (Raqamli Shahar):** 
+    - Foundation Frontend kurslari.
+    - Kompyuter savodxonligi bo'yicha dars beraman.
+- 🧑‍🏫 Yosh dasturchilarga bilim ulashish va ularga motivatsiya berishni maqsad qilganman.
 
 ---
 
@@ -29,23 +39,6 @@
 
 ---
 
-### 💬 Menga bog'laning
-
-- 📱 **Telegram:** [@Muhammad_Linkdev](https://t.me/Muhammad_Linkdev)
-- ✉️ **Email:** **karimov.muhammad.dev@gmail.com**
-
----
-
-### 🚀 Eng Asosiy Loyihalarim
-
-| Loyiha | Ta'rifi |
-|--------|---------|
-| [SeeznTv](https://seezntv.uz/) | Uzbekistondagi eng sifatli onlayn streaming platformasi. |
-| [AnimeApp](https://github.com/Metasensei/AnimeApp) | Anime sevuvchilar uchun maxsus ilova. |
-| [Portfolio](https://github.com/Metasensei/Portfolio) | Mening shaxsiy portfolio sahifam. |
-
----
-
 ### 📊 GitHub Statistikalar
 
 <div align="center">
@@ -62,16 +55,25 @@
 ### 🎨 Interaktiv Animatsiyalar
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=38B2AC&vCenter=true&width=435&lines=Frontend+Dasturchi;Anime+Sevuvchi;IT+Soha+O'qituvchisi" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=38B2AC&vCenter=true&width=435&lines=Frontend+Dasturchi;Mentor;Anime+Sevuvchi" alt="Typing Animation" />
 </div>
 
 ---
 
-### 🎯 Maqsadlarim
+### 🚀 Eng Asosiy Loyihalarim
 
-- 🚀 Texnologiyalarni o‘zbek tilida tushuntirish va rivojlantirish.
-- 🌏 Butunjahon IT jamoasida o‘z hissamni qo‘shish.
-- 🧑‍🏫 Yosh dasturchilar uchun ilhom va bilim manbai bo‘lish.
+| Loyiha | Ta'rifi |
+|--------|---------|
+| [SeeznTv](https://seezntv.uz/) | Uzbekistondagi eng sifatli onlayn streaming platformasi. |
+| [AnimeApp](https://github.com/Metasensei/AnimeApp) | Anime sevuvchilar uchun maxsus ilova. |
+| [Portfolio](https://github.com/Metasensei/Portfolio) | Mening shaxsiy portfolio sahifam. |
+
+---
+
+### 💬 Menga bog'laning
+
+- 📱 **Telegram:** [@Muhammad_Linkdev](https://t.me/Muhammad_Linkdev)
+- ✉️ **Email:** **karimov.muhammad.dev@gmail.com**
 
 ---
 
