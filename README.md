@@ -56,10 +56,22 @@
 
 ### 🎨 Animatsiyalar va Vizual Statistikalar
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Metasensei&theme=radical" alt="Muhammad Karimov's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical" alt="Muhammad Karimov's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Metasensei&theme=radical" title="Muhammad Karimov's Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Metasensei&theme=radical" alt="Muhammad Karimov's Streak Stats" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical" title="Muhammad Karimov's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Metasensei&show_icons=true&theme=radical" alt="Muhammad Karimov's GitHub Stats" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical" title="Muhammad Karimov's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metasensei&layout=compact&theme=radical" alt="Muhammad Karimov's Top Languages" />
+  </a>
 </div>
 
 ---
