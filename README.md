@@ -49,7 +49,7 @@
 ### 🐍 GitHub Hissalarim
 
 <div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Metasensei/Metasensei/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
