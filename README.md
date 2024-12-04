@@ -15,7 +15,7 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,git,github,firebase,docker,figma,vscode" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,git,github,firebase,docker,figma,vscode,wordpress,blender,kali,npm,materialui,photoshop" alt="Skills" />
     </a>
 </div>
 
@@ -40,7 +40,7 @@
 
 | Loyiha | Ta'rifi |
 |--------|---------|
-| [SeeznTv](https://seezntv.uz/) | Uzbekistondagi eng sifatli onlayn streaming platformasi. |
+| [SeeznTv](https://github.com/Metasensei/SeeznTv) | Uzbekistondagi eng sifatli onlayn streaming platformasi. |
 | [AnimeApp](https://github.com/Metasensei/AnimeApp) | Anime sevuvchilar uchun maxsus ilova. |
 | [Portfolio](https://github.com/Metasensei/Portfolio) | Mening shaxsiy portfolio sahifam. |
 
